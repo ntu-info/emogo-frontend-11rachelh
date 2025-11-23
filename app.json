@@ -12,15 +12,15 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "7918e76f-59e9-45c4-aae4-c99cec64cfac"
+        "projectId": "ed1447f5-353d-4e90-b938-e1f1bc564f1d"
       }
     },
-    "owner": "spiketren",
     "ios": {
       "bundleIdentifier": "com.spiketren.exporoutermwe",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
-    }
+    },
+    "owner": "11rachelh"
   }
 }
