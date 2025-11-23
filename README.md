@@ -5,7 +5,7 @@ chat with ai: https://chatgpt.com/share/692375c6-a198-8005-9f92-eeffe58cec4a
 
 install via: https://expo.dev/accounts/11rachelh/projects/expo-router-mwe/builds/83b3efe9-45b2-461b-bc95-079596ae7f25
 
-data collected (time, coordinates, notes, sentiment, selfie sceenshot, vlog mp4): https://drive.google.com/drive/folders/1iItLPR_rhiOAqyMB0c9FsyA-b4s584cY?usp=sharing
+data collected (time, coordinates, notes, sentiment:exported to json file； selfie sceenshot, vlog mp4: saved to local album): https://drive.google.com/drive/folders/1iItLPR_rhiOAqyMB0c9FsyA-b4s584cY?usp=sharing
 
 # Expo Router Minimal Working Example
 
@@ -33,4 +33,5 @@ This is a very small Expo project using **expo-router** with:
    ```
 
 3. Open the app on a device or emulator using the Expo dev tools.
+
 
