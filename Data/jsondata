@@ -37,43 +37,4 @@
   }  
 ]
 
-[
-  {
-    "timestamp": "2025-11-23T20:55:37.357Z",
-    "sentiment": 1,
-    "gps": {
-      "lat": 25.0092179,
-      "lng": 121.4527921
-    },
-    "vlog": "file:///data/user/0/com.spiketren.exporoutermwe/cache/ImagePicker/d50f473c-61e7-46b0-bdd4-a627a761a5c8.mp4",
-    "snapshot": "file:///data/user/0/com.spiketren.exporoutermwe/cache/Camera/5a3438e8-74ce-43b6-a64f-2f6cd45905e0.jpg",
-    "text": "Really tired "
-  },
-    
-  {
-    "timestamp": "2025-11-23T20:58:13.813Z",
-    "sentiment": 5,
-    "gps": {
-      "lat": 25.0092179,
-      "lng": 121.4527921
-    },
-    "vlog": "file:///data/user/0/com.spiketren.exporoutermwe/cache/ImagePicker/17b5ebcb-be53-4c34-be06-8ab1bda8d3d8.mp4",
-    "snapshot": "file:///data/user/0/com.spiketren.exporoutermwe/cache/Camera/65df0426-38e2-415f-8fa4-0f851c4bde0c.jpg",
-    "text": "睡飽了"
-  },
-  
-  {
-    "timestamp": "2025-11-24T10:43:24.606Z",
-    "sentiment": 4,
-    "gps":{
-      "lat": 24.9998159,
-      "lng": 121.5392891
-    },
-    "vlog": 
-"file:///data/user/0/com.spiketren.exporoutermwe/cache/ImagePicker/85d11c1d-c83b-42f8-8389-54a4f767b1bb.mp4",
-    "snapshot": "file:///data/user/0/com.spiketren.exporoutermwe/cache/Camera/a1f34759-bd8c-4c77-b468-0e3ee446fb20.jpg",
-    "text": "有點想睡"
-  }  
-]
-
 
